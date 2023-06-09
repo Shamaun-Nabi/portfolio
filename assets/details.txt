@@ -1,0 +1,85 @@
+
+font:https://fonts.google.com/specimen/Roboto
+
+menu Logo
+Home ABOUT PORTFOLIO BLOG 			
+
+background: linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
+
+background-image: linear-gradient(
+    to right top,
+    #2742df,
+    #4040db,
+    #503dd6,
+    #5d3bd2,
+    #6839cd,
+    #7736c9,
+    #8434c4,
+    #9031c0,
+    #a12dbb,
+    #b12ab5,
+    #bf28af,
+    #cb28a9
+  );
+
+HERO:
+
+HEY THERE !
+I AM JO NED
+CREATIVE ART DIRECTOR & DESIGNER
+social icon
+
+btn: see my work
+
+15k+
+Happy Customer
+
+12k+
+Ticket Solved
+
+9/10
+Average Rating
+
+
+ABOUT ME
+
+Creative Art Director
+And Designer
+
+Also signs his face were digns fish don't first isn't over evening hath divided days light darkness gathering moved dry all darkness then fourth can't create d forth Also signs Also signs his face were moltenus Also signs his face
+
+Download CV
+
+
+
+OUR SERVICE 
+What Service We
+Offer For You
+
+Web Development
+Fruit saw for brought fish forth had ave is man a that their Two he is dominion evening their Fruit saw for brought fish forth
+LEARN MORE
+
+UX/UI Design
+Fruit saw for brought fish forth had ave is man a that their Two he is dominion evening their Fruit saw for brought fish forth
+LEARN MORE
+
+WP Developing
+Fruit saw for brought fish forth had ave is man a that their Two he is dominion evening their Fruit saw for brought fish forth
+LEARN MORE
+
+OUR BLOG
+Latest Story From
+Our Blog
+
+Admin post	Feb 14, 2019
+
+Shall every fourth lesser have...
+
+Have whose a two night earth she set you creeping replenish place whales move Forth first him seed green.
+
+
+logo logo logo logo
+
+
+https://preview.colorlib.com/theme/breed2/index.html

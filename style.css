@@ -1,0 +1,327 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.navBar {
+  width: 100%;
+  /* background-color: blueviolet; */
+  background-color: rgb(250, 249, 247);
+  height: 80px;
+  display: flex;
+}
+
+.logoArea {
+  width: 20%;
+  height: 100%;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.menuList {
+  width: 80%;
+  height: 100%;
+  /* background-color: aquamarine; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menuList a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+
+/* .parent {
+  width: 100%;
+  height: 300px;
+  background-color: aqua;
+  display: flex;
+}
+
+.child1 {
+  width: 20%;
+  height: 100%;
+  background-color: blue;
+}
+.child2 {
+  width: 60%;
+  height: 100%;
+  background-color: blueviolet;
+}
+.child3 {
+  width: 20%;
+  height: 100%;
+  background-color: rgb(25, 4, 44);
+} */
+
+#mainArea {
+  width: 100%;
+  background-image: url("./assets/home-banner.png.webp");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+.contentArea {
+  width: 50%;
+  height: 100%;
+  /* background-color: aqua; */
+  display: flex;
+  align-items: center;
+  padding: 40px;
+}
+.ImageArea {
+  width: 50%;
+  height: 100%;
+  /* background-color: rgb(28, 87, 87); */
+}
+
+.man {
+  width: 75%;
+  height: 90%;
+  object-fit: contain;
+}
+
+.subTitle {
+  font-weight: 400;
+  font-size: 24px;
+  margin-bottom: 10px;
+  letter-spacing: 10px;
+}
+
+.title {
+  font-weight: 800;
+  font-size: 80px;
+  margin-bottom: 10px;
+}
+
+.slogan {
+  font-weight: 500;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+}
+
+.socialIcon {
+  font-size: 40px;
+}
+
+.iconBox {
+  margin: 20px 0px;
+  color: #b72cb8;
+}
+
+.workbBtn {
+  padding: 20px 30px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+  text-transform: uppercase;
+  background-image: linear-gradient(
+    to right top,
+    #2742df,
+    #4040db,
+    #503dd6,
+    #5d3bd2,
+    #6839cd,
+    #7736c9,
+    #8434c4,
+    #9031c0,
+    #a12dbb,
+    #b12ab5,
+    #bf28af,
+    #cb28a9
+  );
+  cursor: pointer;
+}
+
+.project {
+  width: 80%;
+  height: 300px;
+  margin: auto;
+  /* background-color: #7736c9; */
+}
+
+.project h5 {
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.counterArea {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  gap: 4px;
+}
+
+.boxCounter {
+  width: 25%;
+  height: 100%;
+  background-color: rgb(239, 252, 251);
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.boxCounter h4 {
+  font-size: 30px;
+  margin-bottom: 5px;
+  font-weight: 600;
+  background: linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.about_me {
+  width: 80%;
+  /* height: 400px; */
+  /* background-color: blueviolet; */
+  margin: auto;
+  display: flex;
+  gap: 4px;
+}
+
+.aboutImage {
+  width: 50%;
+  height: 100%;
+  padding: 10px;
+}
+
+.aboutContent {
+  width: 50%;
+  height: 100%;
+  padding: 20px;
+  /* background-color: green; */
+}
+
+.aboutContent h3 {
+  letter-spacing: 5px;
+}
+
+.line {
+  width: 10%;
+  margin: 10px 0px;
+}
+
+.aboutContent h2 {
+  letter-spacing: 2px;
+  line-height: 1.5;
+  margin: 10px 0px;
+}
+
+.aboutContent p {
+  line-height: 1.5;
+  text-align: justify;
+  margin: 10px 0px;
+}
+
+.services {
+  width: 100%;
+  margin: 40px 0px;
+}
+
+.serviceTitle {
+  text-align: center;
+  margin: 20px 0px;
+}
+
+.serviceTitle h6 {
+  font-size: 16px;
+}
+
+.serviceTitle span {
+  font-size: 30px;
+}
+
+.serviceBold {
+  font-weight: 500;
+  background: linear-gradient(90deg, #1345e6 0%, #ed239f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cardContainer {
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  display: flex;
+  gap: 25px;
+  padding: 10px;
+}
+
+.card2 {
+  width: 30%;
+  height: 100%;
+  background-color: rgb(236, 236, 236);
+  border-radius: 4px 30px 10px;
+  box-shadow: 1px 4px 4px rgba(116, 113, 113, 0.199);
+}
+
+.card2:hover {
+  background-color: #7736c9;
+  transition: ease-in;
+  transition-duration: 0.7s;
+}
+
+.card3 {
+  width: 30%;
+  height: 100%;
+  background-color: rgb(236, 236, 236);
+  border-radius: 4px 30px 10px;
+  box-shadow: 1px 4px 4px rgba(116, 113, 113, 0.199);
+}
+
+.card3:hover {
+  background-color: #c842f1;
+  transition: ease-in;
+  transition-duration: 0.7s;
+}
+
+.card1 {
+  width: 30%;
+  height: 100%;
+  /* background-color: rgb(24, 194, 194); */
+  border-radius: 4px 30px 10px;
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(247, 247, 247);
+  box-shadow: 1px 4px 4px rgba(204, 204, 204, 0.199);
+  cursor: pointer;
+}
+
+.card1:hover {
+  background: linear-gradient(90deg, #e6eafa 0%, #fccdea 100%);
+  transition: ease-in;
+  transition-duration: 0.7s;
+}
+
+.card1 h1 {
+  margin: 20px 0px;
+}
+.card1 p {
+  margin: 20px 0px;
+}
+
+.cardBtn {
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: #8434c4;
+  color: white;
+  font-size: 15px;
+  margin-top: 40px;
+}
+
+.clientsLogo{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+
+}
